@@ -9,6 +9,6 @@ Exportar o DB (Banco de dados)
 - **view/index.php** - Rota para visualizar o popup
 
 ## Acao
-**botao editar** - Clique para editar a imagem
-**botao salvar** - Clique para salvar a imagem
-**botao voltar** - Clique para voltar na pagina de listagem
+- **botao editar** - Clique para editar a imagem
+- **botao salvar** - Clique para salvar a imagem
+- **botao voltar** - Clique para voltar na pagina de listagem
